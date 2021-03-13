@@ -65,9 +65,9 @@ Here is a list of all the core technologies used to develop this application.
 
 The dependencies listed below are all the core NPM packages used throughout the project.
 
-- `react-dom` - Allows serves as the entry point to the DOM and server renderers for React.
+- `react-dom` - This package serves as the entry point to the DOM and server renderers for React.
 - `react-bootstrap` - Bootstrap 4 components built with React.
-- 
+- `gh-pages`- GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub.- 
 
 <br>
 
