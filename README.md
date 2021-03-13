@@ -75,7 +75,7 @@ The dependencies listed below are all the core NPM packages used throughout the 
 
 ## FUTURE DEVELOPMENT
 
-For `future` development, I would like to incorporate the following `enhancements` into my portfolio:
+For `future` development, I would like to incorporate the following `enhancements`:
 
 - Add get up and move timer
 - Add sounds
