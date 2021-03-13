@@ -1,0 +1,38 @@
+/* Used on navbar  */
+.divbar {
+    text-decoration: none;   
+}
+
+/* Used on Timer */
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    color: purple;
+    font-size: 2rem;
+    align-content: center;
+
+}
+/* Used on Timer */
+.allcenter {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: crimson;
+    font-size: 1.75rem;
+    align-content: center;
+};
+
+/* nothing currently using this */
+.compbox {
+    border-width: 10px;
+    margin: 10 10 10 10;
+}
